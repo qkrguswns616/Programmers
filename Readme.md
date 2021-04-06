@@ -70,7 +70,14 @@
 - BiggestNumber : 가장 큰 수 만들기 (42883)
 - JoyStick : 조이스틱 (42860)
 
+
+	page2
+	
+- OutputAfterQuadCompression : 쿼드 압축후 출력 (68936)
+
+
 **Level 3**
+
 
 
 **Level 4**
