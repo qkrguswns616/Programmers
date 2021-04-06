@@ -1,3 +1,4 @@
+package level2_page2;
 
 public class OutputAfterQuadCompression {
 	public static int[] result = new int[2];

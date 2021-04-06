@@ -74,7 +74,7 @@
 	page2
 	
 - OutputAfterQuadCompression : 쿼드 압축후 출력 (68936)
-
+- BinaryTransforrmation : 이진 변환 반복하기 (70129)
 
 **Level 3**
 
