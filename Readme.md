@@ -68,6 +68,7 @@
 
 - TriangularSnail : 삼각달팽이 (68645)
 - BiggestNumber : 가장 큰 수 만들기 (42883)
+- JoyStick : 조이스틱 (42860)
 
 **Level 3**
 
