@@ -69,12 +69,14 @@
 - TriangularSnail : 삼각달팽이 (68645)
 - BiggestNumber : 가장 큰 수 만들기 (42883)
 - JoyStick : 조이스틱 (42860)
+- RenuwalMenu : 메뉴리뉴얼 (72411)
 
 
 	page2
 	
 - OutputAfterQuadCompression : 쿼드 압축후 출력 (68936)
 - BinaryTransforrmation : 이진 변환 반복하기 (70129)
+- Land : 땅따먹기 (12913)
 
 **Level 3**
 
