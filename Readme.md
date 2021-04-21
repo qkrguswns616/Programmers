@@ -77,6 +77,7 @@
 - OutputAfterQuadCompression : 쿼드 압축후 출력 (68936)
 - BinaryTransforrmation : 이진 변환 반복하기 (70129)
 - Land : 땅따먹기 (12913)
+- GameMap : 게임 맵 최단거리 (1844)
 
 **Level 3**
 
