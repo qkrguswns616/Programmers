@@ -14,6 +14,7 @@ public class Main {
 //		
 //		
 		int[][] board = {{1}};
+		System.out.println("test");
 		bs.solution(board);
 	}
 
