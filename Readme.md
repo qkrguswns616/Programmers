@@ -70,6 +70,7 @@
 - BiggestNumber : 가장 큰 수 만들기 (42883)
 - JoyStick : 조이스틱 (42860)
 - RenuwalMenu : 메뉴리뉴얼 (72411)
+- KakaoColoringBook : 카카오프렌즈 컬러링북 (1829)
 
 
 	page2
