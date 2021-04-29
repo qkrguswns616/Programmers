@@ -79,6 +79,7 @@
 - BinaryTransforrmation : 이진 변환 반복하기 (70129)
 - Land : 땅따먹기 (12913)
 - GameMap : 게임 맵 최단거리 (1844)
+- BiggestSquare : 가장 큰 정사각형 찾기 (12905)
 
 **Level 3**
 
